@@ -1,17 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.8738ac89.css",
-    "main.js": "/static/js/main.2d1b9bfb.js",
+    "main.css": "/static/css/main.ede19c74.css",
+    "main.js": "/static/js/main.50f56ae6.js",
     "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/giphy.png": "/static/media/giphy.796b16b32348269aba75.png",
+    "static/media/muskmeds.png": "/static/media/muskmeds.10f3fe8141ffb2cc66d1.png",
+    "static/media/umerbin_farooq_resume.pdf": "/static/media/umerbin_farooq_resume.a3c1cc30e356513df51f.pdf",
+    "static/media/skinstore.png": "/static/media/skinstore.35344395f56ebe75e8df.png",
     "static/media/passport photograph.jpg": "/static/media/passport photograph.58e5cfd8196653d0f460.jpg",
-    "static/media/best-web-development-agency-London.jpg": "/static/media/best-web-development-agency-London.62446f7397a13920d805.jpg",
+    "static/media/IMG_20230104_184428.jpg": "/static/media/IMG_20230104_184428.778e5b67f48a5a98c05f.jpg",
+    "static/media/css icon.jfif": "/static/media/css icon.7ffaf476596af0e08f6e.jfif",
+    "static/media/nodejs icon.jfif": "/static/media/nodejs icon.f5a3f91b197db31a8a45.jfif",
+    "static/media/mongodb icon.jfif": "/static/media/mongodb icon.fcec94f882269f0c245e.jfif",
+    "static/media/vscode icon.jfif": "/static/media/vscode icon.e185a2dd1d0daa411935.jfif",
     "index.html": "/index.html",
-    "main.8738ac89.css.map": "/static/css/main.8738ac89.css.map",
-    "main.2d1b9bfb.js.map": "/static/js/main.2d1b9bfb.js.map",
+    "main.ede19c74.css.map": "/static/css/main.ede19c74.css.map",
+    "main.50f56ae6.js.map": "/static/js/main.50f56ae6.js.map",
     "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8738ac89.css",
-    "static/js/main.2d1b9bfb.js"
+    "static/css/main.ede19c74.css",
+    "static/js/main.50f56ae6.js"
   ]
 }
