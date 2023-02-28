@@ -1,11 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.ede19c74.css",
-    "main.js": "/static/js/main.a48b7433.js",
+    "main.js": "/static/js/main.09ba9b30.js",
     "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
     "static/media/firstcry.png": "/static/media/firstcry.661d742cc276b990f23e.png",
     "static/media/giphy.png": "/static/media/giphy.796b16b32348269aba75.png",
     "static/media/muskmeds.png": "/static/media/muskmeds.10f3fe8141ffb2cc66d1.png",
+    "static/media/trendymart.png": "/static/media/trendymart.9ce4150c301f97c2e658.png",
     "static/media/skinstore.png": "/static/media/skinstore.35344395f56ebe75e8df.png",
     "static/media/IMG_20230104_184428.jpg": "/static/media/IMG_20230104_184428.778e5b67f48a5a98c05f.jpg",
     "static/media/umerbin_farooq_resume.pdf": "/static/media/umerbin_farooq_resume.b4d4e4dbf3a51eb1318c.pdf",
@@ -16,11 +17,11 @@
     "static/media/vscode icon.jfif": "/static/media/vscode icon.e185a2dd1d0daa411935.jfif",
     "index.html": "/index.html",
     "main.ede19c74.css.map": "/static/css/main.ede19c74.css.map",
-    "main.a48b7433.js.map": "/static/js/main.a48b7433.js.map",
+    "main.09ba9b30.js.map": "/static/js/main.09ba9b30.js.map",
     "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ede19c74.css",
-    "static/js/main.a48b7433.js"
+    "static/js/main.09ba9b30.js"
   ]
 }
